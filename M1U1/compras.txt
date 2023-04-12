@@ -5,3 +5,7 @@ oregano
 pimenton
 pan
 hamburguesas
+bananas
+manzanas
+paltas
+naranjas
